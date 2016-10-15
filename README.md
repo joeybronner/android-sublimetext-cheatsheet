@@ -1,27 +1,22 @@
-# Chrome Dev Tools Cheatsheet
+# Sublime Text Cheatsheet
 
 ### What's this app?
-This app provides a quick reference to each shortcut available in Chrome Dev Tools.
+This app provides a quick reference to each shortcut available in Sublime Text.
 
-The Chrome Dev Tools Cheatsheet refers and allows you to easily share all built-in shortcut keys from this awesome debugger tool.
+The Sublime Text Cheatsheet refers and allows you to easily share all built-in shortcut keys from this awesome development tool.
 
 From the official documentation, you have the choice between two platforms (Mac or Windows).
 
 ### Source
 
-Shortcut list source: http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html  
+Shortcut list source: http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/  
 
 ### Download
-Link coming soon  
+https://play.google.com/store/apps/details?id=fr.joeybronner.sublimetextcheatsheetapp&hl=fr 
 
 ### Preview
-Video coming soon  
+Not available 
 
 ### Screenshots
-<p align="left">
-    <img height="400px" src="http://img15.hostingpics.net/pics/950588Screenshot20160919213425.png">
-    <img height="400px" src="http://img15.hostingpics.net/pics/797306Screenshot20160919213443.png">
-    <img height="400px" src="http://img4.hostingpics.net/pics/398089Screenshot20160919213457.png">
-    <img height="400px" src="http://img4.hostingpics.net/pics/453024Screenshot20160919213507.png">
-</p>  
+Not available
 
