@@ -1,0 +1,265 @@
+<resources>
+    <!-- Application -->
+    <string name="app_name">Sublime Text CheatSheet</string>
+    <string name="githubrepo"><a href="http://github.com/joeybronner/android-sublimetext-cheatsheet">Github Repository</a></string>
+    <string name="app_description">Sublime Text has several built-in shortcut keys that can save you time in your daily workflows</string>
+    <string name="app_github_description">Feel free to clone, star, fork or simply contribute to these app following this link:</string>
+    <string name="app_lastupdate">Last update: 22/09/2016</string>
+    <string name="developer_name">Joey Bronner</string>
+    <string name="developer_links">http://joeybronner.fr - contact@joeybronner.fr</string>
+
+    <!-- Main -->
+    <string name="app_sentence">All starts by launching</string>
+    <string name="app_product_name">Sublime Text</string>
+
+    <!-- Categories -->
+    <string name="title_activity_categories">Categories</string>
+    <string name="activity_categories_launch">Select a category or click on the search button</string>
+
+    <!-- Commands -->
+    <string name="title_activity_list_of_commands">Commands</string>
+    <string name="activity_list_of_commands_launch">List of commands for</string>
+    <string name="share_title">Share command</string>
+    <string name="share_sentence">This awesome command allows you to</string>
+    <string name="share_sentence_app">(shared from Sublime Text CheatSheet for Android)</string>
+
+    <!-- Global -->
+    <string-array name="global_commands_win">
+        <item>Ctrl + ⇧ + P</item>
+        <item>Not available</item>
+        <item>Not available</item>
+        <item>Not available</item>
+        <item>Ctrl + KB</item>
+        <item>Ctrl + ⇧ + Alt + P</item>
+    </string-array>
+    <string-array name="global_commands_mac">
+        <item>⌘ + ⇧ + P</item>
+        <item>⌃ + `</item>
+        <item>⌃ + ⌘ + F</item>
+        <item>⌃ + ⇧ + ⌘ + F</item>
+        <item>⌘ + K, ⌘ + B</item>
+        <item>⌃ + ⇧ + P</item>
+    </string-array>
+    <string-array name="global_text">
+        <item>Command Palette</item>
+        <item>Python Console</item>
+        <item>Toggle fullscreen mode</item>
+        <item>Toggle distraction-free mode</item>
+        <item>Toggle side bar</item>
+        <item>Show scope in status bar</item>
+    </string-array>
+    <!-- Editing -->
+    <string-array name="editing_commands_win">
+        <item>Ctrl + X</item>
+        <item>Ctrl + ↩</item>
+        <item>Ctrl + ⇧ + ↩</item>
+        <item>Ctrl + ⇧ + ↑</item>
+        <item>Ctrl + ⇧ + ↓</item>
+        <item>Ctrl + L</item>
+        <item>Ctrl + D</item>
+        <item>Ctrl + M</item>
+        <item>Ctrl + ⇧ + M</item>
+        <item>Ctrl + ⇧ + K</item>
+        <item>Ctrl + KK</item>
+        <item>Ctrl + K + ⌫</item>
+        <item>Ctrl + ]</item>
+        <item>Ctrl + [</item>
+        <item>Ctrl + ⇧ + D</item>
+        <item>Ctrl + J</item>
+        <item>Ctrl + /</item>
+        <item>Ctrl + ⇧ + /</item>
+        <item>Ctrl + Y</item>
+        <item>Ctrl + ⇧ + V</item>
+        <item>Ctrl + Space</item>
+        <item>Ctrl + U</item>
+        <item>Alt + ⇧ + W</item>
+        <item>Alt + .</item>
+        <item>Ctrl + Alt + Up</item>
+        <item>Ctrl + Alt + Down</item>
+    </string-array>
+    <string-array name="editing_commands_mac">
+        <item>⌘ + X</item>
+        <item>⌘ + ↩</item>
+        <item>⌘ + ⇧ + ↩</item>
+        <item>⌘ + ⌃ + ↑</item>
+        <item>⌘ + ⌃ + ↓</item>
+        <item>⌘ + L</item>
+        <item>⌘ + D</item>
+        <item>⌃ + M</item>
+        <item>⌃ + ⇧ + M</item>
+        <item>⌃ + ⇧ + K</item>
+        <item>⌘ + K, ⌘ + K</item>
+        <item>⌘ + K + ⌫</item>
+        <item>⌘ + ]</item>
+        <item>⌘ + [</item>
+        <item>⌘ + ⇧ + D</item>
+        <item>⌘ + J</item>
+        <item>⌘ + /</item>
+        <item>⌘ + ⌥ + /</item>
+        <item>⌘ + Y</item>
+        <item>⌘ + ⇧ + V</item>
+        <item>⌃ + Space</item>
+        <item>⌃ + U</item>
+        <item>⌃ + ⇧ + W</item>
+        <item>Not available</item>
+        <item>⌃ + ⇧ + Up</item>
+        <item>⌃ + ⇧ + Down</item>
+    </string-array>
+    <string-array name="editing_text">
+        <item>Cut line</item>
+        <item>Insert line after</item>
+        <item>Insert line before</item>
+        <item>Move line/selection up</item>
+        <item>Move line/selection down</item>
+        <item>Select line - Repeat to select next lines</item>
+        <item>Select word - Repeat select others occurrences</item>
+        <item>Jump to closing parentheses</item>
+        <item>Select all contents of the current parentheses</item>
+        <item>Delete Line</item>
+        <item>Delete from cursor to end of line</item>
+        <item>Delete from cursor to start of line</item>
+        <item>Indent current line(s)</item>
+        <item>Un-indent current line(s)</item>
+        <item>Duplicate line(s)</item>
+        <item>Join line below to the end of the current line</item>
+        <item>Comment/un-comment current line</item>
+        <item>Block comment current selection</item>
+        <item>Redo, or repeat last keyboard shortcut command</item>
+        <item>Paste and indent correctly</item>
+        <item>Select next auto-complete suggestion</item>
+        <item>Soft undo</item>
+        <item>Wrap Selection in html tag</item>
+        <item>Close current html tag</item>
+        <item>Column selection up</item>
+        <item>Column selection down</item>
+    </string-array>
+    <!-- Navigation -->
+    <string-array name="navigation_commands_win">
+        <item>Ctrl + P</item>
+        <item>Ctrl + R</item>
+        <item>Ctrl + ;</item>
+        <item>Ctrl + G</item>
+    </string-array>
+    <string-array name="navigation_commands_mac">
+        <item>⌘ + P or ⌘ + T</item>
+        <item>⌘ + R</item>
+        <item>Not available</item>
+        <item>⌃ + G</item>
+    </string-array>
+    <string-array name="navigation_text">
+        <item>Quick-open files by name</item>
+        <item>Goto symbol</item>
+        <item>Goto word in current file</item>
+        <item>Goto line in current file</item>
+    </string-array>
+    <!-- Find/Replace -->
+    <string-array name="findreplace_commands_win">
+        <item>Ctrl + F</item>
+        <item>Ctrl + H</item>
+        <item>Ctrl + ⇧ + F</item>
+    </string-array>
+    <string-array name="findreplace_commands_mac">
+        <item>⌘ + F</item>
+        <item>⌘ + ⌥ + F</item>
+        <item>⌘ + ⇧ + F</item>
+    </string-array>
+    <string-array name="findreplace_text">
+        <item>Find</item>
+        <item>Replace</item>
+        <item>Find in files</item>
+    </string-array>
+    <!-- Tabs -->
+    <string-array name="tabs_commands_win">
+        <item>Ctrl + ⇧ + t</item>
+        <item>Alt + [NUM]</item>
+        <item>Not available</item>
+        <item>Ctrl + PgUp</item>
+        <item>Ctrl + PgDn</item>
+        <item>Not available</item>
+        <item>Not available</item>
+    </string-array>
+    <string-array name="tabs_commands_mac">
+        <item>⌘ + ⇧ + t</item>
+        <item>⌘ + [NUM]</item>
+        <item>⌘ + 0</item>
+        <item>⌘ + ⇧ + [</item>
+        <item>⌘ + ⇧ + ]</item>
+        <item>^ + Tab</item>
+        <item>⇧ + ^ + Tab</item>
+    </string-array>
+    <string-array name="tabs_text">
+        <item>Open last closed tab</item>
+        <item>Jump to tab in current group where num is 1-9</item>
+        <item>Jump to 10th tab in current group</item>
+        <item>Cycle left through tabs</item>
+        <item>Cycle right through tabs</item>
+        <item>Cycle up through recent tabs</item>
+        <item>Cycle down through recent tabs</item>
+    </string-array>
+    <!-- Window -->
+    <string-array name="window_commands_win">
+        <item>Alt + ⇧ + 1</item>
+        <item>Alt + ⇧ + 2</item>
+        <item>Alt + ⇧ + 3</item>
+        <item>Alt + ⇧ + 4</item>
+        <item>Alt + ⇧ + 5</item>
+        <item>Alt + ⇧ + 8</item>
+        <item>Ctrl + [NUM]</item>
+        <item>Ctrl + ⇧ + [NUM]</item>
+    </string-array>
+    <string-array name="window_commands_mac">
+        <item>⌘ + ⌥ + 1</item>
+        <item>⌘ + ⌥ + 2</item>
+        <item>⌘ + ⌥ + 3</item>
+        <item>⌘ + ⌥ + 4</item>
+        <item>⌘ + ⌥ + 5</item>
+        <item>Not available</item>
+        <item>⌃ + [NUM]</item>
+        <item>⌃ + ⇧ + [NUM]</item>
+    </string-array>
+    <string-array name="window_text">
+        <item>Revert view to single column</item>
+        <item>Split view into two columns</item>
+        <item>Split view into three columns</item>
+        <item>Split view into four columns</item>
+        <item>Set view to grid (4 groups)</item>
+        <item>Split view into two rows</item>
+        <item>Jump to group where num is 1-4</item>
+        <item>Move file to specified group where num is 1-4</item>
+    </string-array>
+    <!-- Bookmarks -->
+    <string-array name="bookmarks_commands_win">
+        <item>Ctrl + F2</item>
+        <item>F2</item>
+        <item>⇧ + F2</item>
+        <item>Ctrl + ⇧ + F2</item>
+    </string-array>
+    <string-array name="bookmarks_commands_mac">
+        <item>⌘ + F2</item>
+        <item>F2</item>
+        <item>⇧ + F2</item>
+        <item>⇧ + ⌘ + F2</item>
+    </string-array>
+    <string-array name="bookmarks_text">
+        <item>Toggle bookmark</item>
+        <item>Next bookmark</item>
+        <item>Previous bookmark</item>
+        <item>Clear bookmarks</item>
+    </string-array>
+    <!-- Text Manipulation -->
+    <string-array name="textmanip_commands_win">
+        <item>Ctrl + KU</item>
+        <item>Ctrl + KL</item>
+        <item>Not availbale</item>
+    </string-array>
+    <string-array name="textmanip_commands_mac">
+        <item>⌘ + K, ⌘ + U</item>
+        <item>⌘ + K, ⌘ + L</item>
+        <item>⌘ + ⌃ + up, ⌘ + ⌃ + down</item>
+    </string-array>
+    <string-array name="textmanip_text">
+        <item>Transform to Uppercase</item>
+        <item>Transform to Lowercase</item>
+        <item>Clip text upwards / downwards</item>
+    </string-array>
+</resources>
